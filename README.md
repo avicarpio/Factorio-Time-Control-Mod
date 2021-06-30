@@ -21,6 +21,12 @@ Those keys are refering to the US Keyboard Layout
 
 #### Changelog
 
+Version: 0.2.1
+Date: 30. 06. 2021
+
+- Changes:
+  - New Thumbnail
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 30. 06. 2021
