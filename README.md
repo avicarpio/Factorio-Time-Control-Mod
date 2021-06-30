@@ -4,9 +4,9 @@ My first factorio mod that allows the player to control time and make some stuff
 
 #### Keybindings
 
-- `-` or`Numpad -` Slow down the current game speed by 0.5x
+- `-` or `Numpad -` Slow down the current game speed by 0.5x
 - `+` or `Numpad +`  Speeds up the current game speed by 1.2x
-- `CTRL + -` or`CTRL + Numpad -` Set speed to minimum 0.25x or Reset
+- `CTRL + -` or `CTRL + Numpad -` Set speed to minimum 0.25x or Reset
 - `CTRL + +` or `CTRL + Numpad +` Set Speed to maximum 128x or Reset
 - `ENTER` or `Numpad ENTER` Reset game speed to default 1x.
 
@@ -22,7 +22,7 @@ Those keys are refering to the US Keyboard Layout
 #### Changelog
 
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.1
+Version: 0.2.0
 Date: 30. 06. 2021
 
 - Changes:
