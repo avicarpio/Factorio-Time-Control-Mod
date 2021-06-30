@@ -11,6 +11,10 @@ end
 
 commands.add_command("get_speed", "This is a help command", getSpeed)
 
+local function on_init()
+    game.speed = 1
+end
+
 function changeSpeed(event, newTime)
 
     local newSpeed = game.speed
