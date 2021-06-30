@@ -1,0 +1,11 @@
+{
+    "name": "timeSpeed",
+    "version": "0.1.0",
+    "title": "Time Speed",
+    "author": "Congobill",
+    "factorio_version": "1.1",
+    "contact": "@mallocGameDev on Twitter",
+    "homepage": "https://github.com/avicarpio/Factorio-Time-Control-Mod",
+    "description": "This mod allows the player to control time and make some stuff really quickly",
+    "dependencies": ["base >= 1.1"]
+}
