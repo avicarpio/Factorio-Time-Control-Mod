@@ -16,7 +16,7 @@ Those keys are refering to the US Keyboard Layout
 
 |  US  | French | Italian | German | Spanish | Polish |
 | :--: | :----: | :-----: | :----: | :-----: | :----: |
-|  +   |   +    |    ^    |   à    |    ¿    |   +    |
+|  +   |   +    |    ^    |   `    |    ¿    |   +    |
 |  -   |   )    |    '    |   ß    |    '    |   -    |
 
 #### Changelog
