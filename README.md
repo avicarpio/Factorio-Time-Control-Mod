@@ -2,6 +2,8 @@
 
 My first factorio mod that allows the player to control time and make some stuff really quickly
 
+[Factorio Mod Portal](https://mods.factorio.com/mod/timeSpeed)
+
 #### Keybindings
 
 - `-` or `Numpad -` Slow down the current game speed by 0.5x
