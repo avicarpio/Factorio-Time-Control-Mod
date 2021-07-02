@@ -4,7 +4,7 @@ My first factorio mod that allows the player to control time and make some stuff
 
 [Factorio Mod Portal](https://mods.factorio.com/mod/timeSpeed)
 
-![alt text](https://github.com/avicarpio/Factorio-Time-Control-Mod/blob/main/timeSpeed_0.2.1/thumbnail.png "Logo Mod")
+![alt text](https://github.com/avicarpio/Factorio-Time-Control-Mod/blob/main/timeSpeed_0.2.2/thumbnail.png "Logo Mod")
 
 #### Keybindings
 
