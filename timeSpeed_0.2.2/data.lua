@@ -8,7 +8,7 @@ data:extend({
     {
         type = "custom-input",
         name = "timeFaster",
-        key_sequence = "PLUS",
+        key_sequence = "EQUALS",
         alternative_key_sequence = "KP_PLUS",
     },
     {
@@ -20,7 +20,7 @@ data:extend({
     {
         type = "custom-input",
         name = "timeFaster_max",
-        key_sequence = "SHIFT + PLUS",
+        key_sequence = "SHIFT + EQUALS",
         alternative_key_sequence = "SHIFT + KP_PLUS",
     },
     {

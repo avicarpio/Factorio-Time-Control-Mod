@@ -25,6 +25,14 @@ Those keys are refering to the US Keyboard Layout
 
 #### Changelog
 
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 02. 07. 2021
+   - Changes:
+         - Fixed Bug that `+` Key Binding may not work on some Keyboard Layouts
+
+---------------------------------------------------------------------------------------------------
+
 Version: 0.2.1
 Date: 30. 06. 2021
 
@@ -43,4 +51,4 @@ Version: 0.1.0
 Date: 30. 06. 2021
 
 - Changes:
-  - First mod release.
+  - First mod release
