@@ -2,8 +2,7 @@
 
 My first factorio mod that allows the player to control time and make some stuff really quickly
 
-[](https://github.com/avicarpio)
-![alt text](https://img.shields.io/github/followers/avicarpio?label=avicarpio&style=social)
+[![Github Followers](https://img.shields.io/github/followers/avicarpio?label=avicarpio&style=social)](https://github.com/avicarpio)
 
 [Factorio Mod Portal](https://mods.factorio.com/mod/timeSpeed)
 
